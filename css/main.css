@@ -1,0 +1,33 @@
+body{
+    width:80%;
+    margin:auto;
+}
+
+#pname{
+    text-align: center;
+}
+
+hr{
+    height: 2px;
+    background-color:green;
+    
+}
+h3{
+    background-color: gray;
+    width:100%;
+}
+table{
+    width:100%;
+}
+table,th,td{
+    border-bottom: 1px solid gray<
+}
+table th{
+    background-color: rgb(13, 43, 21);
+    color: white;
+
+
+}
+table td{
+    border:1px solid green
+}
